@@ -3,11 +3,8 @@ Official Github repository: [DLMDSAM01](https://github.com/iubh/DLMDSAM01)
 
 
 ## Unit 1 - Calculus  
-*Basics review*: Partialbruchzerlegung:  
-- [MathePeter: Partialbruchzerlegung 1/4: ALLE Möglichkeiten](https://www.youtube.com/watch?v=Kd_757z-g-k) 
-- [MathePeter: Partialbruchzerlegung 2/4: Einfache Polstelle](https://www.youtube.com/watch?v=ljQQIYmw2aw)  
-- [MathePeter: Partialbruchzerlegung 3/4: Mehrfache Polstelle](https://www.youtube.com/watch?v=9ZT6W8n38Y0)  
-- [MathePeter: Partialbruchzerlegung 4/4: Komplexe Polstelle](https://www.youtube.com/watch?v=AxC602PvHq0)  
+*Basics review*: Partial fraction decomposition:  
+- [Partial Fraction Decomposition All Types](https://www.youtube.com/watch?v=2bMndF92Oqo) 
 
 
 ### 1.1 Differentiation and Integration  
@@ -149,4 +146,4 @@ Kulback-Leibler divergence: [machinelearningmastery: How to Calculate the KL Div
 ### 6.4 Cross Entropy  
 Entropy, cross entropy and KL-Divergence [Youtube - Aurélien Géron: A Short Introduction to Entropy, Cross-Entropy and KL-Divergence](https://www.youtube.com/watch?v=ErfnhcEV1O8)  
 
-Study Notes from subrockmann
+Study Notes from subrockmann modified by Adonaivera
