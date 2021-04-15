@@ -9,14 +9,16 @@ Official Github repository: [DLMDSAM01](https://github.com/iubh/DLMDSAM01)
 
 ### 1.1 Differentiation and Integration  
 #### Differentiation  
-- Differentiation of fractions [MathePeter: Brüche ableiten (Trick)](https://www.youtube.com/watch?v=xMfS-VNV-Q4)  
+- Differentiation of fractions [MathePeter: Brüche ableiten (Trick)](https://www.youtube.com/watch?v=xMfS-VNV-Q4)  -> It's in Germany but is easy to underestand.
+- Differentiation of fractions [The Organic Chemistry Tutor: Derivatives of Rational Functions](https://www.youtube.com/watch?v=qknoFdPwEco)
+- Chain Rule [Khan Academy: Chain rule | Derivative rules | AP Calculus AB | Khan Academy](https://www.youtube.com/watch?v=0T0QrHO56qg)  
 
 #### Integration
-- Integration by substitution infinite integrals [MathePeter: Integralrechnung Substitution: Einfach Erklärt + Beispiel](https://www.youtube.com/watch?v=rKGlE4av4-c) 
-- Integration by substitution infinite integrals 2nd type [MathePeter: Integralrechnung Substitution 2. Art | Einfach Erklärt + Beispiel](https://www.youtube.com/watch?v=vtyaO162fa4)  
-- Integration by substitution - finite integrals []()  
-- Integration by partial fractions [Youtube: Integration by partial fractions](https://www.youtube.com/watch?v=r5MIraVUVUA)  
+- Integration by substitution infinite integrals [Professor Dave Explains: Integration Using The Substitution Rule](https://www.youtube.com/watch?v=sci1pls4Lc8&t=2s) 
+- Integration by substitution - finite integrals [U-substitution with definite integral](https://www.youtube.com/watch?v=7hCsQOKOYS8)  
+- Integration by partial fractions [The Organic Chemistry Tutor: Integration By Partial Fractions](https://www.youtube.com/watch?v=6rXByMcuAyI)  
 
+------
 - Multiple integrals  
     - Intuition of multiple integrals: [Khan Academy: Double integral 1](https://www.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/double-integrals-topic/v/double-integral-1)  
     - muliple integrals - example: [Khan Academy: Double integrals 2](https://www.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/double-integrals-topic/v/double-integrals-2)  
