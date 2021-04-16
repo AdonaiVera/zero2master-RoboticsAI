@@ -17,20 +17,17 @@ Official Github repository: [DLMDSAM01](https://github.com/iubh/DLMDSAM01)
 - Integration by substitution infinite integrals [Professor Dave Explains: Integration Using The Substitution Rule](https://www.youtube.com/watch?v=sci1pls4Lc8&t=2s) 
 - Integration by substitution - finite integrals [U-substitution with definite integral](https://www.youtube.com/watch?v=7hCsQOKOYS8)  
 - Integration by partial fractions [The Organic Chemistry Tutor: Integration By Partial Fractions](https://www.youtube.com/watch?v=6rXByMcuAyI)  
-
-------
 - Multiple integrals  
     - Intuition of multiple integrals: [Khan Academy: Double integral 1](https://www.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/double-integrals-topic/v/double-integral-1)  
     - muliple integrals - example: [Khan Academy: Double integrals 2](https://www.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/double-integrals-topic/v/double-integrals-2)  
-
     - double integrals with variable bounds part 1[Khan Academy: Double integrals 5](https://www.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/double-integrals-topic/v/double-integrals-5)  
     - double integrals with variable bounds part 2 [Khan Academy: Double integrals 6](https://www.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/double-integrals-topic/v/double-integrals-6)  
-
 - Integration along a path 
     - intuition [Khan Academy: Introduction to the line integral](https://www.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals/v/introduction-to-the-line-integral)  
     - line integral example 1 [Khan Academy: Line integral example 1](https://www.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals/v/line-integral-example-1)  
     - line integral example closed contour 1/2 [Khan Academy: Line integral example 2 (part 1)](https://www.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals/v/line-integral-example-2-part-1)  
     - line integral example closed contour 2/2 [Khan Academy: Line integral example 2 (part 2)](https://www.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals/v/line-integral-example-2-part-2)  
+ ------ 
     - line integrals and vector fields [Khan Academy: Line integrals and vector fields](https://www.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals-vectors/v/line-integrals-and-vector-fields) 
 
 - Integration over a surface  
