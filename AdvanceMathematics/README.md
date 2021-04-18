@@ -25,17 +25,19 @@ Official Github repository: [DLMDSAM01](https://github.com/iubh/DLMDSAM01)
 - Integration along a path 
     - intuition [Khan Academy: Introduction to the line integral](https://www.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals/v/introduction-to-the-line-integral)  
     - line integral example 1 [Khan Academy: Line integral example 1](https://www.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals/v/line-integral-example-1) 
-------  
+
     - line integral example closed contour 1/2 [Khan Academy: Line integral example 2 (part 1)](https://www.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals/v/line-integral-example-2-part-1)  
     - line integral example closed contour 2/2 [Khan Academy: Line integral example 2 (part 2)](https://www.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals/v/line-integral-example-2-part-2)  
-
     - line integrals and vector fields [Khan Academy: Line integrals and vector fields](https://www.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals-vectors/v/line-integrals-and-vector-fields) 
+    - line integrals and vector fields - case of use [Khan Academy: Using a line integral to find work](https://www.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals-vectors/v/using-a-line-integral-to-find-the-work-done-by-a-vector-field-example)
 
+------  
 - Integration over a surface  
     - integration over a torus part 1 [Khan Acadmey: Example of calculating a surface integral part 1](https://www.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/surface-integrals-introduction/v/example-of-calculating-a-surface-integral-part-1)  
     - integration over a torus part 2 - calculating the cross product [Khan Academy: Example of calculating a surface integral part 2](https://www.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/surface-integrals-introduction/v/example-of-calculating-a-surface-integral-part-2)  
     - integration over a torus part 3 - solving the double integral [Khan Academy: Example of calculating a surface integral part 3](https://www.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/surface-integrals-introduction/v/example-of-calculating-a-surface-integral-part-3)  
 - Parametrization of a surface (torus): [Khan Academy: Parametric functions, two parameters](https://www.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/ways-to-represent-multivariable-functions/a/parametric-functions-two-parameters)  
+
 
 #### Taylor series  
 - Taylor approximation and examples [mathsisfun.com: Taylor series ](https://www.mathsisfun.com/algebra/taylor-series.html)  
