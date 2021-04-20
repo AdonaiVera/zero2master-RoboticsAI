@@ -31,14 +31,14 @@ Official Github repository: [DLMDSAM01](https://github.com/iubh/DLMDSAM01)
     - line integrals and vector fields [Khan Academy: Line integrals and vector fields](https://www.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals-vectors/v/line-integrals-and-vector-fields) 
     - line integrals and vector fields - case of use [Khan Academy: Using a line integral to find work](https://www.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals-vectors/v/using-a-line-integral-to-find-the-work-done-by-a-vector-field-example)
 
-------  
-- Integration over a surface  
+  
+- Integration over a surface 
+    - Parametrization of a surface (torus): [Khan Academy: Parametric functions, two parameters](https://www.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/ways-to-represent-multivariable-functions/a/parametric-functions-two-parameters)  
     - integration over a torus part 1 [Khan Acadmey: Example of calculating a surface integral part 1](https://www.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/surface-integrals-introduction/v/example-of-calculating-a-surface-integral-part-1)  
     - integration over a torus part 2 - calculating the cross product [Khan Academy: Example of calculating a surface integral part 2](https://www.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/surface-integrals-introduction/v/example-of-calculating-a-surface-integral-part-2)  
     - integration over a torus part 3 - solving the double integral [Khan Academy: Example of calculating a surface integral part 3](https://www.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/surface-integrals-introduction/v/example-of-calculating-a-surface-integral-part-3)  
-- Parametrization of a surface (torus): [Khan Academy: Parametric functions, two parameters](https://www.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/ways-to-represent-multivariable-functions/a/parametric-functions-two-parameters)  
-
-
+ 
+------
 #### Taylor series  
 - Taylor approximation and examples [mathsisfun.com: Taylor series ](https://www.mathsisfun.com/algebra/taylor-series.html)  
 - Taylor series [Paul's online notes: Taylor series](https://tutorial.math.lamar.edu/classes/calcii/taylorseries.aspx)  
