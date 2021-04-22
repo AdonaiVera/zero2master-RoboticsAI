@@ -50,7 +50,7 @@ Official Github repository: [DLMDSAM01](https://github.com/iubh/DLMDSAM01)
 - Definition of calculus of variations [Youtube: Introduction to Calculus of Variations](https://www.youtube.com/watch?v=6HeQc7CSkZs)  
 - Euler-Lagrange [Introduction to Variational Calculus - Deriving the Euler-Lagrange Equation](https://www.youtube.com/watch?v=VCHFCXgYdvY)  
 
----  
+---  ADO
 ## Unit 2 - Integral Transformations  
 ### 2.1 Convolutions  
 ### 2.2 Fourier Transformation  
