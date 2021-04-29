@@ -63,12 +63,13 @@ Official Github repository: [DLMDSAM01](https://github.com/iubh/DLMDSAM01)
 - example of fourier series: [Khan Acamdey:Finding Fourier coefficients for square wave](https://www.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series/v/ee-fourier-coefficients-for-square-wave)  
 - example calculations of Fourier series: [Math24.net: Definition of Fourier Series and Typical Examples](https://www.math24.net/fourier-series-definition-typical-examples/)  
 
----  ADO 
+---   
 ## Unit 3 - Vector Algebra  
-### 3.1 Scalars and Vectors  
-### 3.2 Addition and Subtraction of Vectors  
-### 3.3 Multiplication of Vectors: Dot product and scalar product  
----  
+### 3.1 Scalars and Vectors [Scalars and Vectors](https://www.youtube.com/watch?v=rcDXQ-5H8mk)  
+### 3.2 Addition and Subtraction of Vectors  [Adding and Subtracting Vectors](https://www.youtube.com/watch?v=ci29I7a0HI8)  
+### 3.3 Multiplication of Vectors: Dot product and scalar product  [The Vector Dot Product](https://www.youtube.com/watch?v=0iNrGpwZwog)  
+### 3.4 Multiplication of Vectors: Cross product [The Vector Cross Product](https://www.youtube.com/watch?v=gPnWm-IXoAY)  
+---  ADO
 ## Unit 4 - Vector Calculus  
 - Good resource on vector calculus: [Oregon State University: Web Study Guide for Vector Calculus](http://sites.science.oregonstate.edu/math/home/programs/undergrad/CalculusQuestStudyGuides/vcalc/vcalc.html)  
 ### 4.1 Differentiation of vectors  
