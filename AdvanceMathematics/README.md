@@ -69,7 +69,7 @@ Official Github repository: [DLMDSAM01](https://github.com/iubh/DLMDSAM01)
 ### 3.2 Addition and Subtraction of Vectors  [Adding and Subtracting Vectors](https://www.youtube.com/watch?v=ci29I7a0HI8)  
 ### 3.3 Multiplication of Vectors: Dot product and scalar product  [The Vector Dot Product](https://www.youtube.com/watch?v=0iNrGpwZwog)  
 ### 3.4 Multiplication of Vectors: Cross product [The Vector Cross Product](https://www.youtube.com/watch?v=gPnWm-IXoAY)  
----  ADO
+---  
 ## Unit 4 - Vector Calculus  
 - Good resource on vector calculus: [Oregon State University: Web Study Guide for Vector Calculus](http://sites.science.oregonstate.edu/math/home/programs/undergrad/CalculusQuestStudyGuides/vcalc/vcalc.html)  
 ### 4.1 Differentiation of vectors  
@@ -89,7 +89,7 @@ Official Github repository: [DLMDSAM01](https://github.com/iubh/DLMDSAM01)
 - formula for 2d-curl [Khan Academy: 2d curl formula](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/curl-grant-videos/v/2d-curl-formula)  
 - formula for 3d-curl [Khan Academy: 3d curl formula, part 2](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/curl-grant-videos/v/3d-curl-formula-part-2)  
 - curl computation example [Khan Academy: 3d curl computation example](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/curl-grant-videos/v/3d-curl-computation-example)  
----  
+---  ADO
 
 ## Unit 5 - Matrices and Vector Spaces  
 ### 5.1 Basic matrix algebra  
