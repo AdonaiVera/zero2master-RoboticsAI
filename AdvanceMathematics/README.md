@@ -89,14 +89,14 @@ Official Github repository: [DLMDSAM01](https://github.com/iubh/DLMDSAM01)
 - formula for 2d-curl [Khan Academy: 2d curl formula](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/curl-grant-videos/v/2d-curl-formula)  
 - formula for 3d-curl [Khan Academy: 3d curl formula, part 2](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/curl-grant-videos/v/3d-curl-formula-part-2)  
 - curl computation example [Khan Academy: 3d curl computation example](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/curl-grant-videos/v/3d-curl-computation-example)  
----  ADO
+---  
 
 ## Unit 5 - Matrices and Vector Spaces  
 ### 5.1 Basic matrix algebra  
 *Basics review*: Einstein notation: [Einstein Summation Convention: an Introduction](https://www.youtube.com/watch?v=CLrTj7D2fLM&list=PLdgVBOaXkb9D6zw47gsrtE5XqLeRPh27_&index=3)  
 ### 5.2 Determinant, Trace, Complex and Hermitian Conjugates 
 *Basics review*: Complex numbers and conjugates: [Khan Academy: Intro to complex number conjugates](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:complex/x9e81a4f98389efdf:complex-div/v/complex-conjugates)  
-#### Determinants
+#### Determinants ADO
 - Determinant of a matrix: [Math10.com: Determinant of a Matrix](https://www.math10.com/en/algebra/matrices/determinant.html)  
 - Rechenregeln für Determinanten [MathePeter: Rechenregeln für Determinanten](https://www.youtube.com/watch?v=jDerrYHsLcY)  
 - Determinante nach Laplaceschem Entwicklungssatz [MathePeter: Determinante berechnen (Entwicklungssatz von Laplace)](https://www.youtube.com/watch?v=5TprkT5tHPo)  
