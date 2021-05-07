@@ -110,16 +110,14 @@ Official Github repository: [DLMDSAM01](https://github.com/iubh/DLMDSAM01)
     - [Khan Academy: Factoring polynomials with quadratic forms](https://www.khanacademy.org/math/algebra-home/alg-polynomials#alg-factoring-polynomials-quadratic-forms)  
     - [Khan Academy: Strategies for factoring quadratics](https://www.khanacademy.org/math/algebra-home/alg-polynomials/factoring-quadratics-strategy-alg/v/strategy-in-factoring-quadratics-2)  
     - [Khan Academy: Intro to long division of polynomials](https://www.khanacademy.org/math/algebra-home/alg-polynomials/alg-long-division-of-polynomials/v/polynomial-division?modal=1)
-- Eigenvectors and eigenvalues: [Coursera: What are eigenvalues and eigenvectors?
-](https://coursera.org/share/53493e87625a503aa7c8192bcd2d621e) - brilliant intuition!
+- Eigenvectors and eigenvalues: [Coursera: What are eigenvalues and eigenvectors?](https://coursera.org/share/53493e87625a503aa7c8192bcd2d621e) - brilliant intuition!
 - Eigenvalues of a 2x2 matrix: [Khan Acacemy: Eigenvalues of a 2x2 matrix](https://www.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything/v/linear-algebra-example-solving-for-the-eigenvalues-of-a-2x2-matrix)  
 - Finding eigenvectors and eigenspaces in 2x2: [Khan Academy: Finding eigenvectors and eigenspaces example](https://www.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything/v/linear-algebra-finding-eigenvectors-and-eigenspaces-example)  
 - Eigenvalues in 3x3: [Khan Academy: Eigenvalues of a 3x3 matrix](https://www.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything/v/linear-algebra-eigenvalues-of-a-3x3-matrix)  
 - Eigenvectors and eigenspaces 3x3: [Khan Academy: Eigenvectors and eigenspaces for a 3x3 matrix](https://www.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything/v/linear-algebra-eigenvectors-and-eigenspaces-for-a-3x3-matrix)  
 
-
     
-### 5.3 Diagonalization 
+### 5.3 Diagonalization ADO
 - [Youtube: Professor Dave explains: Diagonalization](https://www.youtube.com/watch?v=WTLl03D4TNA)  
 
 ### 5.4 Tensors  
