@@ -14,7 +14,7 @@ Official Github repository: [DLMDSAM01](https://github.com/iubh/DLMDSAM01)
 
 ## Tips
 - Start with the long questions
-- 
+- Do de examples of the classes on thursday, they make some examples than you can use it to study
 ## Examples of questions
 1) Differentiate f(x) = ln(tan(x))
 
@@ -119,6 +119,8 @@ C^T =
  
 
 A^-1 = -(1/2) * C^T
+
+6) Find some taylor series expresions
 
 ## Example of exam
 https://iubh-onlineexams.de/my/index.php?lang=en
