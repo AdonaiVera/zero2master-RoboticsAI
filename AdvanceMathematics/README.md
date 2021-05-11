@@ -105,7 +105,7 @@ Official Github repository: [DLMDSAM01](https://github.com/iubh/DLMDSAM01)
 - Inverse Matrix nach Gauss-Jordan (GERMANY) [MathePeter: Matrix invertieren mit Gauß-Jordan-Verfahren Einfach Erklärt + Beispiel](https://www.youtube.com/watch?v=jGHTVeJ0xto)  
 - Iverse Matrix mit Adjunten-Verfahren (GERMANY) [MathePeter:Matrix invertieren (Adjunkten-Verfahren)](https://www.youtube.com/watch?v=3Q8lHjFfsOI)  
 - Matriz adjunta (SPANISH) [Matriz adjunta](https://www.youtube.com/watch?v=l51Epr3SY1Y)
-#### Eigenvectors and eigenvalues ADO
+#### Eigenvectors and eigenvalues 
 - *Basics review*: Solving polynomial equations is crucial for calculating eigenvectors, so review the basics here if needed:  
     - [Khan Academy: Factoring polynomials with quadratic forms](https://www.khanacademy.org/math/algebra-home/alg-polynomials#alg-factoring-polynomials-quadratic-forms)  
     - [Khan Academy: Strategies for factoring quadratics](https://www.khanacademy.org/math/algebra-home/alg-polynomials/factoring-quadratics-strategy-alg/v/strategy-in-factoring-quadratics-2)  
@@ -117,10 +117,10 @@ Official Github repository: [DLMDSAM01](https://github.com/iubh/DLMDSAM01)
 - Eigenvectors and eigenspaces 3x3: [Khan Academy: Eigenvectors and eigenspaces for a 3x3 matrix](https://www.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything/v/linear-algebra-eigenvectors-and-eigenspaces-for-a-3x3-matrix)  
 
     
-### 5.3 Diagonalization ADO
+### 5.3 Diagonalization 
 - [Youtube: Professor Dave explains: Diagonalization](https://www.youtube.com/watch?v=WTLl03D4TNA)  
 
-### 5.4 Tensors  
+### 5.4 Tensors  ADO
 - What's a Tensor?: [Youtube - Dan Fleisch: What's a Tensor?](https://www.youtube.com/watch?v=f5liqUk0ZTw) 
 - [Youtube - Physics Videos by Eugene Khutoryansky: Tensors Explained Intuitively: Covariant, Contravariant, Rank](https://www.youtube.com/watch?v=CliW7kSxxWU)   
 - Matrix vs. tensors: [Medium: What’s the difference between a matrix and a tensor?](https://medium.com/@quantumsteinke/whats-the-difference-between-a-matrix-and-a-tensor-4505fbdc576c#)  
@@ -130,7 +130,7 @@ Official Github repository: [DLMDSAM01](https://github.com/iubh/DLMDSAM01)
 - Contravariant vector transformation: [Youtube - Eigenchris: Tensors for Beginners 3: Vector Transformation Rules](https://www.youtube.com/watch?v=A1h_eucHFW4&list=PLJHszsWbB6hrkmmq57lX8BV-o-YIOFsiG&index=6)  
 
 
----  
+--- 
 ## Unit 6 - Information Theory  
 ### 6.1 Mean Squared Error (MSE)  
 ### 6.2 Gini Index  
