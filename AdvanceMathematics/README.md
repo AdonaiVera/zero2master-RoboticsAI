@@ -120,17 +120,17 @@ Official Github repository: [DLMDSAM01](https://github.com/iubh/DLMDSAM01)
 ### 5.3 Diagonalization 
 - [Youtube: Professor Dave explains: Diagonalization](https://www.youtube.com/watch?v=WTLl03D4TNA)  
 
-### 5.4 Tensors  ADO
+### 5.4 Tensors  
 - What's a Tensor?: [Youtube - Dan Fleisch: What's a Tensor?](https://www.youtube.com/watch?v=f5liqUk0ZTw) 
 - [Youtube - Physics Videos by Eugene Khutoryansky: Tensors Explained Intuitively: Covariant, Contravariant, Rank](https://www.youtube.com/watch?v=CliW7kSxxWU)   
 - Matrix vs. tensors: [Medium: What’s the difference between a matrix and a tensor?](https://medium.com/@quantumsteinke/whats-the-difference-between-a-matrix-and-a-tensor-4505fbdc576c#)  
 - [Youtube - Faculty of Khan: Introduction to tensors](https://www.youtube.com/watch?v=uaQeXi4E7gA&list=PLdgVBOaXkb9D6zw47gsrtE5XqLeRPh27_)  
-- Intuition on tensor invariance: (misleading Youtube title!) [Youtube - Faculty of Khan: Introduction to Tensors: Transformation Rules](https://www.youtube.com/watch?v=j6DazQDbEhQ&list=PLdgVBOaXkb9D6zw47gsrtE5XqLeRPh27_&index=2)  
-- Covariant and contravariant tensors: []()  
+- Intuition on tensor invariance: (Introduction to Tensors: Transformation Rules) [Youtube - Faculty of Khan: Introduction to Tensors: Transformation Rules](https://www.youtube.com/watch?v=j6DazQDbEhQ&list=PLdgVBOaXkb9D6zw47gsrtE5XqLeRPh27_&index=2)  
+- Covariant and contravariant tensors: [3/3 Contravariant and Covariant tensor](https://www.youtube.com/watch?v=nNMY02udkHw)  
 - Contravariant vector transformation: [Youtube - Eigenchris: Tensors for Beginners 3: Vector Transformation Rules](https://www.youtube.com/watch?v=A1h_eucHFW4&list=PLJHszsWbB6hrkmmq57lX8BV-o-YIOFsiG&index=6)  
 
 
---- 
+--- ADO
 ## Unit 6 - Information Theory  
 ### 6.1 Mean Squared Error (MSE)  
 ### 6.2 Gini Index  
