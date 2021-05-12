@@ -130,13 +130,13 @@ Official Github repository: [DLMDSAM01](https://github.com/iubh/DLMDSAM01)
 - Contravariant vector transformation: [Youtube - Eigenchris: Tensors for Beginners 3: Vector Transformation Rules](https://www.youtube.com/watch?v=A1h_eucHFW4&list=PLJHszsWbB6hrkmmq57lX8BV-o-YIOFsiG&index=6)  
 
 
---- ADO
+---  
 ## Unit 6 - Information Theory  
-### 6.1 Mean Squared Error (MSE)  
+### 6.1 Mean Squared Error (MSE) [Squared error of regression line | Regression | Probability and Statistics | Khan Academy](https://es.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/more-on-regression/v/squared-error-of-regression-line)
 ### 6.2 Gini Index  
 - Lorenz curve and gini coefficient: [Khan Academy: Gini Coefficient and Lorenz Curve](https://www.khanacademy.org/economics-finance-domain/ap-microeconomics/ap-consumer-producer-surplus/inequality/v/gini-coefficient-and-lorenz-curve)  
 
-### 6.3 Entropy, Shannon Entropy, Kulback-Leibler Divergence  
+### 6.3 Entropy, Shannon Entropy, Kulback-Leibler Divergence   ADO
 - Introduction to entropy: [Khan Academy: Introduction to entropy](https://www.khanacademy.org/science/ap-chemistry/thermodynamics-ap/entropy-tutorial-ap/v/introduction-to-entropy)  
 - Entropy in thermodynamics [Khan Academy: Reconciling thermodynamic and state definitions of entropy](https://www.khanacademy.org/science/ap-chemistry/thermodynamics-ap/entropy-tutorial-ap/v/reconciling-thermodynamic-and-state-definitions-of-entropy)  
 - Shannon entropy - intuitively [Youtube - Luis Serrano: Shannon Entropy and Information Gain](https://www.youtube.com/watch?v=9r7FIXEAGvs)  
