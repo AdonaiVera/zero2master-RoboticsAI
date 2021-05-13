@@ -136,15 +136,14 @@ Official Github repository: [DLMDSAM01](https://github.com/iubh/DLMDSAM01)
 ### 6.2 Gini Index  
 - Lorenz curve and gini coefficient: [Khan Academy: Gini Coefficient and Lorenz Curve](https://www.khanacademy.org/economics-finance-domain/ap-microeconomics/ap-consumer-producer-surplus/inequality/v/gini-coefficient-and-lorenz-curve)  
 
-### 6.3 Entropy, Shannon Entropy, Kulback-Leibler Divergence   ADO
+### 6.3 Entropy, Shannon Entropy, Kulback-Leibler Divergence   
 - Introduction to entropy: [Khan Academy: Introduction to entropy](https://www.khanacademy.org/science/ap-chemistry/thermodynamics-ap/entropy-tutorial-ap/v/introduction-to-entropy)  
-- Entropy in thermodynamics [Khan Academy: Reconciling thermodynamic and state definitions of entropy](https://www.khanacademy.org/science/ap-chemistry/thermodynamics-ap/entropy-tutorial-ap/v/reconciling-thermodynamic-and-state-definitions-of-entropy)  
 - Shannon entropy - intuitively [Youtube - Luis Serrano: Shannon Entropy and Information Gain](https://www.youtube.com/watch?v=9r7FIXEAGvs)  
 - Shannon entropy [Khan Academy: Information entropy](https://www.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/information-entropy)  
 Kulback-Leibler divergence: [machinelearningmastery: How to Calculate the KL Divergence for Machine Learning](https://machinelearningmastery.com/divergence-between-probability-distributions/)  
 
 
-### 6.4 Cross Entropy  
+### 6.4 Cross Entropy  ADO
 Entropy, cross entropy and KL-Divergence [Youtube - Aurélien Géron: A Short Introduction to Entropy, Cross-Entropy and KL-Divergence](https://www.youtube.com/watch?v=ErfnhcEV1O8)  
 
 Study Notes from subrockmann modified by Adonaivera
