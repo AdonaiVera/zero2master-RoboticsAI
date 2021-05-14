@@ -143,7 +143,7 @@ Official Github repository: [DLMDSAM01](https://github.com/iubh/DLMDSAM01)
 Kulback-Leibler divergence: [machinelearningmastery: How to Calculate the KL Divergence for Machine Learning](https://machinelearningmastery.com/divergence-between-probability-distributions/)  
 
 
-### 6.4 Cross Entropy  ADO
+### 6.4 Cross Entropy  
 Entropy, cross entropy and KL-Divergence [Youtube - Aurélien Géron: A Short Introduction to Entropy, Cross-Entropy and KL-Divergence](https://www.youtube.com/watch?v=ErfnhcEV1O8)  
 
 Study Notes from subrockmann modified by Adonaivera
